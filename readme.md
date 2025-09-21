@@ -21,20 +21,16 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?s=400&u=b408cc35aea6b0b2cd69ba3745dbd134edd7ac8a&v=4" alt="@hsouzaeduardo"><br>
-        <sub>@hsouzaeduardo</sub>
+        <p align="center">Aluna</p>
+        <a href="https://github.com/limaizabela">
+        <img src="[https://avatars.githubusercontent.com/u/1692867?s=400&u=b408cc35aea6b0b2cd69ba3745dbd134edd7ac8a&v=4](https://avatars.githubusercontent.com/u/91274370?s=96&v=4)" alt="@limaizabela"><br>
+        <sub>@limaizabela</sub>
       </a>
     </td>
     <td colspan="3">
-    <p>Especialista em Soluções distribuídas e Cloud, pós-graduado em Engenharia de Software, MBA em Arquitetura de Soluções e Dados &IA. Atuando há 25 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. Atualmente atuando como Gerente de Arquitetura e inteligência Artificial . Instrutor Oficial Microsoft há mais de 10 anos, Microsoft MVP e apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes e que todos merecem oportunidades e criador da fórmula:
-
-R = (T + D + TD)²
-
-Resultado = (Tempo + dedicação + Trabalho Duro)</p>
+    <p>Estudante do Bacharelado em Tecnologia da Informação, Técnica em TI, entusiasta de soluções em Dados e IA, embaixadora DIO</p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/izabelalima/"  
       align="center">
            <img 
             align="center" 
