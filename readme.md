@@ -23,7 +23,7 @@
     <td>
         <p align="center">Aluna</p>
         <a href="https://github.com/limaizabela">
-        <img src="[https://avatars.githubusercontent.com/u/1692867?s=400&u=b408cc35aea6b0b2cd69ba3745dbd134edd7ac8a&v=4](https://avatars.githubusercontent.com/u/91274370?s=96&v=4)" alt="@limaizabela"><br>
+        <img src="https://avatars.githubusercontent.com/u/91274370?s=96&v=4" alt="@limaizabela"><br>
         <sub>@limaizabela</sub>
       </a>
     </td>
@@ -100,7 +100,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.dio.me/" target="_blank">
+  <a href="[https://www.dio.me/](https://www.dio.me/sign-up?ref=AF9YNIFY1GS6)" target="_blank">
     <img align="center" src="./.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
