@@ -100,7 +100,7 @@
 <br />
 
 <p align="center">
-  <a href="[https://www.dio.me/](https://www.dio.me/sign-up?ref=AF9YNIFY1GS6)" target="_blank">
+  <a href="https://www.dio.me/sign-up?ref=AF9YNIFY1GS6" target="_blank">
     <img align="center" src="./.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
